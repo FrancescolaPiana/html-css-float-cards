@@ -4,9 +4,80 @@
     box-sizing: border-box;
     margin: 0;
     padding: 0;
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Fredoka', sans-serif;
 }
 
+/* tag */
+
 header{
-    
+    margin-top: 20px;
+    margin-bottom: 40px;
 }
+
+h1{
+    text-align: center;
+    color: #E53170 ;
+}
+
+main{
+    width: 100%;
+}
+
+
+
+
+/* class*/
+
+.margin{
+    margin: 0 auto;
+    width: 80%;
+    margin-bottom: 60px;
+    min-width: 1200px;
+
+}
+
+.mwidth{
+
+}
+
+.font1{
+    font-weight: 400;
+}
+
+.fontc{
+    color:whitesmoke;
+}
+
+.fontc1{
+    color: rgb(0, 145, 255);
+    text-decoration: none;
+}
+
+.allign{
+    text-align: center;
+}
+
+
+
+    /* sections photo */
+    
+    img{
+        width: 100px;
+        float: left;
+    }
+
+    section{
+        background-color: black;
+        width: 380px;
+    }
+
+    .marginc{
+        display: inline-block;
+        height: 100px;
+        
+    }
+
+    .m{
+        padding: calc(18px / 3);
+        padding-left: 10px;
+    }
